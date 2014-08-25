@@ -5,6 +5,11 @@ tips
 
 Swift tip calculator app for Codepath
 
+Installation (requires use of Cocoapods):
+  1. In the tips directory, type "pod install"
+  2. In XCode, open the generated "tips.xcworkspace" file
+  3. Build for device
+
 Optional changes:
   - Added option for fourth "30%" tip, saved as a default
   - Added option to enable "shake for a random tip percent", saved as a default
